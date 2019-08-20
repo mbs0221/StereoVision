@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 2.8) 
+project( measure ) 
+find_package( OpenCV REQUIRED ) 
+add_executable( measure measure.cpp ) 
+target_link_libraries( measure ${OpenCV_LIBS} )

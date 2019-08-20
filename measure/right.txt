@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<opencv_storage>
+  <imagelist>
+	right01.png
+	right02.png
+	right03.png
+	right04.png
+	right05.png
+	right06.png
+	right07.png
+	right08.png
+	right09.png
+	right10.png
+	right11.png
+	right12.png
+	right13.png
+	right14.png
+	right15.png
+  </imagelist>
+</opencv_storage>
